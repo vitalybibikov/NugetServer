@@ -1,10 +1,10 @@
 
 # NugetServer: http://exchangenugetserver.azurewebsites.net/
 
-## HowTo: https://github.com/EvilAvenger/NugetServer/wiki/How-to-Configure
+### HowTo: https://github.com/EvilAvenger/NugetServer/wiki/How-to-Configure
 
 
-### Nuget Server for assemblies of the following projects:
+#### Nuget Server for assemblies of the following projects:
 
 https://github.com/EvilAvenger/HashtagAggregator
 
