@@ -14,3 +14,4 @@ https://github.com/EvilAvenger/HashtagAggregatorTwitterService
 
 https://github.com/EvilAvenger/HashtagAggregatorIdentity
 
+https://github.com/EvilAvenger/HashTagAggregatorCommon
